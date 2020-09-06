@@ -1,0 +1,552 @@
+E:\Program Files\ASP\ASP7\ASP7\bin\ASP7.dll.config
+E:\Program Files\ASP\ASP7\ASP7\bin\ASP7.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\ASP7.pdb
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\csc.exe
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\csc.exe.config
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\csc.rsp
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\csi.exe
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\csi.exe.config
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\csi.rsp
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\System.AppContext.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\System.Collections.Immutable.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\System.Console.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\System.IO.Compression.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\System.IO.FileSystem.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\System.IO.Pipes.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\System.Reflection.Metadata.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\System.Security.AccessControl.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\System.Security.Claims.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\System.ValueTuple.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\System.Xml.XPath.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\vbc.exe
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\vbc.exe.config
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\vbc.rsp
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\VBCSCompiler.exe
+E:\Program Files\ASP\ASP7\ASP7\bin\roslyn\VBCSCompiler.exe.config
+E:\Program Files\ASP\ASP7\ASP7\bin\Antlr3.Runtime.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\Microsoft.Web.Infrastructure.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\Newtonsoft.Json.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\System.Net.Http.Formatting.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\System.Web.Helpers.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\System.Web.Http.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\System.Web.Http.WebHost.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\System.Web.Mvc.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\System.Web.Optimization.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\System.Web.Razor.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\System.Web.WebPages.Deployment.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\System.Web.WebPages.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\System.Web.WebPages.Razor.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\WebGrease.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\Newtonsoft.Json.xml
+E:\Program Files\ASP\ASP7\ASP7\bin\System.Net.Http.Formatting.xml
+E:\Program Files\ASP\ASP7\ASP7\bin\System.Web.Helpers.xml
+E:\Program Files\ASP\ASP7\ASP7\bin\System.Web.Http.xml
+E:\Program Files\ASP\ASP7\ASP7\bin\System.Web.Http.WebHost.xml
+E:\Program Files\ASP\ASP7\ASP7\bin\System.Web.Mvc.xml
+E:\Program Files\ASP\ASP7\ASP7\bin\System.Web.Optimization.xml
+E:\Program Files\ASP\ASP7\ASP7\bin\System.Web.Razor.xml
+E:\Program Files\ASP\ASP7\ASP7\bin\System.Web.WebPages.xml
+E:\Program Files\ASP\ASP7\ASP7\bin\System.Web.WebPages.Deployment.xml
+E:\Program Files\ASP\ASP7\ASP7\bin\System.Web.WebPages.Razor.xml
+E:\Program Files\ASP\ASP7\ASP7\bin\Antlr3.Runtime.pdb
+E:\Program Files\ASP\ASP7\ASP7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Program Files\ASP\ASP7\ASP7\bin\ru\System.Net.Http.Formatting.resources.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\ru\System.Web.Helpers.resources.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\ru\System.Web.Http.resources.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\ru\System.Web.Http.WebHost.resources.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\ru\System.Web.Mvc.resources.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\ru\System.Web.Optimization.resources.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\ru\System.Web.Razor.resources.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\ru\System.Web.WebPages.resources.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\Program Files\ASP\ASP7\ASP7\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\Program Files\ASP\ASP7\ASP7\obj\Debug\ASP7.csprojAssemblyReference.cache
+E:\Program Files\ASP\ASP7\ASP7\obj\Debug\ASP7.csproj.CoreCompileInputs.cache
+E:\Program Files\ASP\ASP7\ASP7\obj\Debug\ASP7.csproj.CopyComplete
+E:\Program Files\ASP\ASP7\ASP7\obj\Debug\ASP7.dll
+E:\Program Files\ASP\ASP7\ASP7\obj\Debug\ASP7.pdb
+D:\3\ПИС\ASP7\ASP7\bin\ASP7.dll.config
+D:\3\ПИС\ASP7\ASP7\bin\ASP7.dll
+D:\3\ПИС\ASP7\ASP7\bin\ASP7.pdb
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\csc.exe
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\csc.exe.config
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\csc.rsp
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\csi.exe
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\csi.exe.config
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\csi.rsp
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\Microsoft.Managed.Core.targets
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\System.AppContext.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\System.Collections.Immutable.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\System.Console.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\System.IO.Compression.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\System.IO.FileSystem.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\System.IO.Pipes.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\System.Reflection.Metadata.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\System.Security.AccessControl.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\System.Security.Claims.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\System.Security.Principal.Windows.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\System.ValueTuple.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\System.Xml.XmlDocument.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\System.Xml.XPath.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\vbc.exe
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\vbc.exe.config
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\vbc.rsp
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\VBCSCompiler.exe
+D:\3\ПИС\ASP7\ASP7\bin\roslyn\VBCSCompiler.exe.config
+D:\3\ПИС\ASP7\ASP7\bin\Antlr3.Runtime.dll
+D:\3\ПИС\ASP7\ASP7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\3\ПИС\ASP7\ASP7\bin\Microsoft.Web.Infrastructure.dll
+D:\3\ПИС\ASP7\ASP7\bin\Newtonsoft.Json.dll
+D:\3\ПИС\ASP7\ASP7\bin\System.Net.Http.Formatting.dll
+D:\3\ПИС\ASP7\ASP7\bin\System.Web.Helpers.dll
+D:\3\ПИС\ASP7\ASP7\bin\System.Web.Http.dll
+D:\3\ПИС\ASP7\ASP7\bin\System.Web.Http.WebHost.dll
+D:\3\ПИС\ASP7\ASP7\bin\System.Web.Mvc.dll
+D:\3\ПИС\ASP7\ASP7\bin\System.Web.Optimization.dll
+D:\3\ПИС\ASP7\ASP7\bin\System.Web.Razor.dll
+D:\3\ПИС\ASP7\ASP7\bin\System.Web.WebPages.Deployment.dll
+D:\3\ПИС\ASP7\ASP7\bin\System.Web.WebPages.dll
+D:\3\ПИС\ASP7\ASP7\bin\System.Web.WebPages.Razor.dll
+D:\3\ПИС\ASP7\ASP7\bin\WebGrease.dll
+D:\3\ПИС\ASP7\ASP7\bin\Newtonsoft.Json.xml
+D:\3\ПИС\ASP7\ASP7\bin\System.Net.Http.Formatting.xml
+D:\3\ПИС\ASP7\ASP7\bin\System.Web.Helpers.xml
+D:\3\ПИС\ASP7\ASP7\bin\System.Web.Http.xml
+D:\3\ПИС\ASP7\ASP7\bin\System.Web.Http.WebHost.xml
+D:\3\ПИС\ASP7\ASP7\bin\System.Web.Mvc.xml
+D:\3\ПИС\ASP7\ASP7\bin\System.Web.Optimization.xml
+D:\3\ПИС\ASP7\ASP7\bin\System.Web.Razor.xml
+D:\3\ПИС\ASP7\ASP7\bin\System.Web.WebPages.xml
+D:\3\ПИС\ASP7\ASP7\bin\System.Web.WebPages.Deployment.xml
+D:\3\ПИС\ASP7\ASP7\bin\System.Web.WebPages.Razor.xml
+D:\3\ПИС\ASP7\ASP7\bin\Antlr3.Runtime.pdb
+D:\3\ПИС\ASP7\ASP7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\3\ПИС\ASP7\ASP7\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\3\ПИС\ASP7\ASP7\bin\ru\System.Web.Helpers.resources.dll
+D:\3\ПИС\ASP7\ASP7\bin\ru\System.Web.Http.resources.dll
+D:\3\ПИС\ASP7\ASP7\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\3\ПИС\ASP7\ASP7\bin\ru\System.Web.Mvc.resources.dll
+D:\3\ПИС\ASP7\ASP7\bin\ru\System.Web.Optimization.resources.dll
+D:\3\ПИС\ASP7\ASP7\bin\ru\System.Web.Razor.resources.dll
+D:\3\ПИС\ASP7\ASP7\bin\ru\System.Web.WebPages.resources.dll
+D:\3\ПИС\ASP7\ASP7\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\3\ПИС\ASP7\ASP7\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\3\ПИС\ASP7\ASP7\obj\Debug\ASP7.csprojAssemblyReference.cache
+D:\3\ПИС\ASP7\ASP7\obj\Debug\ASP7.csproj.CoreCompileInputs.cache
+D:\3\ПИС\ASP7\ASP7\obj\Debug\ASP7.csproj.CopyComplete
+D:\3\ПИС\ASP7\ASP7\obj\Debug\ASP7.dll
+D:\3\ПИС\ASP7\ASP7\obj\Debug\ASP7.pdb
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\ASP7.dll.config
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\ASP7.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\ASP7.pdb
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\csc.exe
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\csc.exe.config
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\csc.rsp
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\csi.exe
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\csi.exe.config
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\csi.rsp
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\System.AppContext.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Collections.Immutable.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Console.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\System.IO.Compression.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\System.IO.FileSystem.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\System.IO.Pipes.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Reflection.Metadata.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Security.AccessControl.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Security.Claims.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\System.ValueTuple.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Xml.XPath.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\vbc.exe
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\vbc.exe.config
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\vbc.rsp
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\VBCSCompiler.exe
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\roslyn\VBCSCompiler.exe.config
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\Antlr3.Runtime.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\Microsoft.Web.Infrastructure.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\Newtonsoft.Json.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\System.Net.Http.Formatting.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\System.Web.Helpers.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\System.Web.Http.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\System.Web.Http.WebHost.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\System.Web.Mvc.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\System.Web.Optimization.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\System.Web.Razor.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\System.Web.WebPages.Deployment.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\System.Web.WebPages.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\System.Web.WebPages.Razor.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\WebGrease.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\Newtonsoft.Json.xml
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\System.Net.Http.Formatting.xml
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\System.Web.Helpers.xml
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\System.Web.Http.xml
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\System.Web.Http.WebHost.xml
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\System.Web.Mvc.xml
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\System.Web.Optimization.xml
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\System.Web.Razor.xml
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\System.Web.WebPages.xml
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\System.Web.WebPages.Deployment.xml
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\System.Web.WebPages.Razor.xml
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\Antlr3.Runtime.pdb
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\ru\System.Web.Helpers.resources.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\ru\System.Web.Http.resources.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\ru\System.Web.Mvc.resources.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\ru\System.Web.Optimization.resources.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\ru\System.Web.Razor.resources.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\ru\System.Web.WebPages.resources.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\obj\Debug\ASP7.csprojAssemblyReference.cache
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\obj\Debug\ASP7.csproj.CoreCompileInputs.cache
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\obj\Debug\ASP7.csproj.CopyComplete
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\obj\Debug\ASP7.dll
+D:\ЮЛЯ\ПИС\ASP_7a - WebAPI\ASP7\obj\Debug\ASP7.pdb
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\ASP7.dll.config
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\ASP7.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\ASP7.pdb
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\csc.exe
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\csc.exe.config
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\csc.rsp
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\csi.exe
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\csi.exe.config
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\csi.rsp
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\System.AppContext.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Collections.Immutable.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Console.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\System.IO.Compression.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\System.IO.FileSystem.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\System.IO.Pipes.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Reflection.Metadata.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Security.AccessControl.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Security.Claims.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\System.ValueTuple.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Xml.XPath.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\vbc.exe
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\vbc.exe.config
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\vbc.rsp
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\VBCSCompiler.exe
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\roslyn\VBCSCompiler.exe.config
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\Antlr3.Runtime.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\Microsoft.Web.Infrastructure.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\Newtonsoft.Json.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\System.Net.Http.Formatting.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\System.Web.Helpers.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\System.Web.Http.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\System.Web.Http.WebHost.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\System.Web.Mvc.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\System.Web.Optimization.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\System.Web.Razor.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\System.Web.WebPages.Deployment.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\System.Web.WebPages.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\System.Web.WebPages.Razor.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\WebGrease.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\Newtonsoft.Json.xml
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\System.Net.Http.Formatting.xml
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\System.Web.Helpers.xml
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\System.Web.Http.xml
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\System.Web.Http.WebHost.xml
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\System.Web.Mvc.xml
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\System.Web.Optimization.xml
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\System.Web.Razor.xml
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\System.Web.WebPages.xml
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\System.Web.WebPages.Deployment.xml
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\System.Web.WebPages.Razor.xml
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\Antlr3.Runtime.pdb
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\ru\System.Web.Helpers.resources.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\ru\System.Web.Http.resources.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\ru\System.Web.Mvc.resources.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\ru\System.Web.Optimization.resources.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\ru\System.Web.Razor.resources.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\ru\System.Web.WebPages.resources.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\obj\Debug\ASP7.csprojAssemblyReference.cache
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\obj\Debug\ASP7.csproj.CoreCompileInputs.cache
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\obj\Debug\ASP7.csproj.CopyComplete
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\obj\Debug\ASP7.dll
+D:\ЮЛЯ\ASP_7a - WebAPI\ASP7\obj\Debug\ASP7.pdb
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\ASP7.dll.config
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\ASP7.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\ASP7.pdb
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\csc.exe
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\csc.exe.config
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\csc.rsp
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\csi.exe
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\csi.exe.config
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\csi.rsp
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\System.AppContext.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\System.Collections.Immutable.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\System.Console.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\System.IO.Compression.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\System.IO.FileSystem.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\System.IO.Pipes.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\System.Reflection.Metadata.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\System.Security.AccessControl.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\System.Security.Claims.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\System.ValueTuple.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\System.Xml.XPath.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\vbc.exe
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\vbc.exe.config
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\vbc.rsp
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\VBCSCompiler.exe
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\roslyn\VBCSCompiler.exe.config
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\Antlr3.Runtime.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\Microsoft.Web.Infrastructure.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\Newtonsoft.Json.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\System.Net.Http.Formatting.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\System.Web.Helpers.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\System.Web.Http.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\System.Web.Http.WebHost.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\System.Web.Mvc.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\System.Web.Optimization.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\System.Web.Razor.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\System.Web.WebPages.Deployment.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\System.Web.WebPages.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\System.Web.WebPages.Razor.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\WebGrease.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\Newtonsoft.Json.xml
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\System.Net.Http.Formatting.xml
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\System.Web.Helpers.xml
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\System.Web.Http.xml
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\System.Web.Http.WebHost.xml
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\System.Web.Mvc.xml
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\System.Web.Optimization.xml
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\System.Web.Razor.xml
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\System.Web.WebPages.xml
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\System.Web.WebPages.Deployment.xml
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\System.Web.WebPages.Razor.xml
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\Antlr3.Runtime.pdb
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\ru\System.Web.Helpers.resources.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\ru\System.Web.Http.resources.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\ru\System.Web.Mvc.resources.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\ru\System.Web.Optimization.resources.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\ru\System.Web.Razor.resources.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\ru\System.Web.WebPages.resources.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\obj\Debug\ASP7.csprojAssemblyReference.cache
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\obj\Debug\ASP7.csproj.CoreCompileInputs.cache
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\obj\Debug\ASP7.csproj.CopyComplete
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\obj\Debug\ASP7.dll
+D:\ЮЛЯ\ЭКЗАМЕН\18 - WEBAPI (верно)\ASP7\obj\Debug\ASP7.pdb
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\ASP7.dll.config
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\ASP7.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\ASP7.pdb
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\csc.exe
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\csc.exe.config
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\csc.rsp
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\csi.exe
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\csi.exe.config
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\csi.rsp
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\Microsoft.Managed.Core.targets
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\System.AppContext.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\System.Collections.Immutable.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\System.Console.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\System.IO.Compression.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\System.IO.FileSystem.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\System.IO.Pipes.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\System.Reflection.Metadata.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\System.Security.AccessControl.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\System.Security.Claims.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\System.Security.Principal.Windows.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\System.ValueTuple.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\System.Xml.XmlDocument.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\System.Xml.XPath.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\vbc.exe
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\vbc.exe.config
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\vbc.rsp
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\VBCSCompiler.exe
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\roslyn\VBCSCompiler.exe.config
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\Antlr3.Runtime.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\Microsoft.Web.Infrastructure.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\Newtonsoft.Json.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\System.Net.Http.Formatting.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\System.Web.Helpers.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\System.Web.Http.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\System.Web.Http.WebHost.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\System.Web.Mvc.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\System.Web.Optimization.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\System.Web.Razor.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\System.Web.WebPages.Deployment.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\System.Web.WebPages.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\System.Web.WebPages.Razor.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\WebGrease.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\Newtonsoft.Json.xml
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\System.Net.Http.Formatting.xml
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\System.Web.Helpers.xml
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\System.Web.Http.xml
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\System.Web.Http.WebHost.xml
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\System.Web.Mvc.xml
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\System.Web.Optimization.xml
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\System.Web.Razor.xml
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\System.Web.WebPages.xml
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\System.Web.WebPages.Deployment.xml
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\System.Web.WebPages.Razor.xml
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\Antlr3.Runtime.pdb
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\ru\System.Net.Http.Formatting.resources.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\ru\System.Web.Helpers.resources.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\ru\System.Web.Http.resources.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\ru\System.Web.Http.WebHost.resources.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\ru\System.Web.Mvc.resources.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\ru\System.Web.Optimization.resources.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\ru\System.Web.Razor.resources.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\ru\System.Web.WebPages.resources.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\ru\System.Web.WebPages.Deployment.resources.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\bin\ru\System.Web.WebPages.Razor.resources.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\obj\Debug\ASP7.csprojAssemblyReference.cache
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\obj\Debug\ASP7.csproj.CoreCompileInputs.cache
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\obj\Debug\ASP7.csproj.CopyComplete
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\obj\Debug\ASP7.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\18\ASP7\obj\Debug\ASP7.pdb

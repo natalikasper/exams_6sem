@@ -1,0 +1,15 @@
+﻿@model List<String>
+<html>
+<head>
+    <meta name="viewport" >
+    <title>Exam</title>
+</head>
+<body>
+    <h4>В списке @Model.Count элементов.</h4>
+    <h4></h4>
+    <h4>Список городов:</h4>
+@{ foreach (string s in Model) {
+    @s <br/>}
+}
+</body>
+</html>

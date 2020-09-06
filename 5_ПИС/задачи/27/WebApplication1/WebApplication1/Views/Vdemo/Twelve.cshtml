@@ -1,0 +1,23 @@
+﻿@*создать вью с использованием базового класса
+    в <> указ.базовый класс
+    string - в качестве модели будет строка
+    в другом - дата
+    результат - от 1 баз.класса можем создавать различные view, которые будут унаследованы
+        от одного и того же собственного базового класса
+    *@
+@inherits WebApplication1.Controllers.VDemoController.VDemo<string>
+@model string
+@{ 
+    this.date = this.date.AddYears(1);
+}
+<html>
+<head>
+    <title>Twelve</title>
+</head>
+<body>
+   <p>date= @this.date.ToShortDateString()<br/>
+           description = @this.description <br/>
+           Model = @Model
+    </p>
+</body>
+</html>

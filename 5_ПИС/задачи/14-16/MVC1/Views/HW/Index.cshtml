@@ -1,0 +1,29 @@
+﻿@using MVC1.Models
+@{ 
+    Layout = null; 
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td><p>Id</p></td>
+            <td><p>Name</p></td>
+            <td><p>Country</p></td>
+        </tr>
+        @foreach (var b in ViewBag.Objects)
+        {
+        <tr>
+            <td><p>@b.Id</p></td>
+            <td><p>@b.Name</p></td>
+            <td><p>@b.Country</p></td>
+        </tr>
+        }
+    </table>
+</body>
+</html>

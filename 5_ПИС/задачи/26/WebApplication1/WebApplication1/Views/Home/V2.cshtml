@@ -1,0 +1,18 @@
+﻿@model WebApplication1.Controllers.HomeController.A
+@{ 
+    int x = Model.x;
+    int y = Model.y;
+    }
+<html>
+<head>
+    <meta charset="utf-8">
+    <title></title>
+</head>
+<body>
+    <h2>Home/V2</h2>
+    <h3>Model</h3>
+    <p>x = @Model.x</p>
+    <p>y = @Model.y</p>
+    <p>@(x+y)</p>
+</body>
+</html>

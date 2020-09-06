@@ -1,0 +1,49 @@
+﻿@using System.IO
+@using System.Text
+@functions
+{
+    public int GetFactorial(int n)
+    {
+        int result = 1;
+        for (int i = 1; i <= n; i++)
+            result *= i;
+        return result;
+    }
+    public int sum (int x, int y)
+    {
+        return x + y;
+    }
+    public int sub(int x, int y)
+    {
+        return x - y;
+    }
+}
+<html>
+<head>
+    <title>Exam</title>
+</head>
+<body>
+    <h3>Применение директивы @@function</h3>
+    <p>Факториал числа 6 равен: @GetFactorial(6)</p>
+    <p>15 + 18 = @sum(15, 18)</p>
+    <p>31 - 19 = @sub(31, 19)</p>
+    <h3>Применение директивы @@using</h3>
+    @try
+    {
+        using (StreamReader stream = new StreamReader("Files/ex.txt", Encoding.GetEncoding("windows-1251")))
+        {
+            string line;
+            while((line = stream.ReadLine()) != null)
+            {
+                @line <br/>
+            }
+        }
+    }
+    catch (Exception)
+    {
+        <p>Ошибка ввода</p>
+    }
+</body>
+</html>
+
+

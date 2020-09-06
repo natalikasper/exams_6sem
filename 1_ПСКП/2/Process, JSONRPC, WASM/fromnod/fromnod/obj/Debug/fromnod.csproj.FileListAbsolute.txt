@@ -1,0 +1,14 @@
+F:\app\fromnod\fromnod\bin\Debug\fromnod.exe.config
+F:\app\fromnod\fromnod\bin\Debug\fromnod.exe
+F:\app\fromnod\fromnod\bin\Debug\fromnod.pdb
+F:\app\fromnod\fromnod\obj\Debug\fromnod.csprojAssemblyReference.cache
+F:\app\fromnod\fromnod\obj\Debug\fromnod.csproj.CoreCompileInputs.cache
+F:\app\fromnod\fromnod\obj\Debug\fromnod.exe
+F:\app\fromnod\fromnod\obj\Debug\fromnod.pdb
+D:\3\ПСКП\экзамен\1_PSKP\задачи\fromnod\fromnod\bin\Debug\fromnod.exe.config
+D:\3\ПСКП\экзамен\1_PSKP\задачи\fromnod\fromnod\bin\Debug\fromnod.exe
+D:\3\ПСКП\экзамен\1_PSKP\задачи\fromnod\fromnod\bin\Debug\fromnod.pdb
+D:\3\ПСКП\экзамен\1_PSKP\задачи\fromnod\fromnod\obj\Debug\fromnod.csprojAssemblyReference.cache
+D:\3\ПСКП\экзамен\1_PSKP\задачи\fromnod\fromnod\obj\Debug\fromnod.csproj.CoreCompileInputs.cache
+D:\3\ПСКП\экзамен\1_PSKP\задачи\fromnod\fromnod\obj\Debug\fromnod.exe
+D:\3\ПСКП\экзамен\1_PSKP\задачи\fromnod\fromnod\obj\Debug\fromnod.pdb

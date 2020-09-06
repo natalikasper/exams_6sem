@@ -1,0 +1,33 @@
+﻿@*встаивание частичного представления в обычное*@
+@{
+    Layout = null;
+}
+<html>
+<head>
+    <meta name="viewport" />
+    <title>Exam</title>
+</head>
+<body>
+    <h2>Представление Index.cshtml</h2>
+    @*Html.PartialAsync() - встраивает код частичного представления в обычное
+            является асинзронным и возвращает объект IHtmlContext, кот.представляет
+                html-содержимое и который обернут в объект Task<TResult>
+            В качестве параметра в метод передается имя представления *@
+    
+    @await Html.PartialAsync("_GetMessage")
+
+    @*другой способ*@
+    @{await Html.RenderPartialAsync("_GetMessage");}
+
+    @*html-хэлпер*@
+    @Html.ActionLink("О сайте", "About", "Home")
+    @*стандартный элемент ссылки с хэлпером Url.Action*@
+    <a href = '@Url.Action("About", "Home")'> О Сайте</a>
+
+    @*исп.тэг-хэлпер AnchorTagHelper
+        asp-controller - название контроллера
+        asp-action - действие, к кот.будет идти запрос*@
+    <a asp-controller="Home" asp-action="About">О Сайте</a>
+
+</body>
+</html>

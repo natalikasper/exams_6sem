@@ -1,0 +1,17 @@
+﻿@inherits WebApplication1.Controllers.VDemoController.VDemo<DateTime>
+@model DateTime
+@{
+    this.date = this.date.AddYears(1);
+}
+<html>
+<head>
+    <title>Thirteen</title>
+</head>
+<body>
+    <p>
+        date= @this.date.ToShortDateString()<br />
+        description = @this.description <br />
+        Model = @Model.ToShortTimeString()
+    </p>
+</body>
+</html>
